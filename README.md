@@ -23,14 +23,6 @@ I enjoy transforming ideas into **intelligent, data-driven solutions** and love 
 
 ---
 
-## 📈 GitHub Stats  
-
-![Dhana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Varsh345&show_icons=true&theme=radical)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Varsh345&layout=compact&theme=radical)  
-
----
-
 ## 🌟 Current Focus  
 - Building **end-to-end ML pipelines** with MLOps  
 - Working on **Generative AI** and **document intelligence with RAG**  

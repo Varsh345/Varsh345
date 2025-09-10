@@ -6,8 +6,8 @@ I enjoy transforming ideas into **intelligent, data-driven solutions** and love 
 ---
 
 ## 🔭 About Me  
-- 🎓 Final-year student specializing in **AI & ML**  
-- 🤖 Skilled in **Machine Learning, Deep Learning, NLP, and Generative AI**  
+- 🎓 Final-year student specializing in **AI & DS**  
+- 🤖 Skilled in **Machine Learning, Deep Learning, NLP, Generative AI, and Data Science**  
 - ⚡ Interested in **MLOps, Cloud Deployment, and Scalable AI Systems**  
 - 🌱 Currently exploring **RAG-based solutions, LangChain, and advanced NLP pipelines**  
 - 💡 Passionate about **problem-solving, optimization, and model deployment**  
@@ -36,4 +36,4 @@ I enjoy transforming ideas into **intelligent, data-driven solutions** and love 
 
 ---
 
-⭐️ *“Turning data into intelligence, one model at a time.”*  
+⭐️ *“Turning data into intelligence.”*  

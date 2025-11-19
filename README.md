@@ -52,6 +52,15 @@ I enjoy transforming ideas into **intelligent, scalable, and cloud-ready solutio
 
 ---
 
+## 📊 GitHub Analytics  
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Varsh345&show_icons=true&theme=react" height="160" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varsh345&layout=compact&theme=react" height="160"/>
+
+</div>
+
 ## 🤝 Let’s Connect  
 - 📫 Email: varshu2256@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/dhana-varshini-srinivasan-127519276/

@@ -1,61 +1,67 @@
-## Hi there 👋  
-
-I'm **Dhana Varshini**, a final-year student passionate about **Artificial Intelligence, Data Science, Cloud Infrastructure, and ML Engineering**.  
-I enjoy transforming ideas into **intelligent, scalable, and cloud-ready solutions**, connecting **AI research with real-world applications**.
+<h1 align="center">👋 Hi, I'm <span style="color:#3b82f6">Dhana Varshini</span></h1>
+<h3 align="center">AI & ML Engineer | Cloud & MLOps | GenAI & RAG Enthusiast</h3>
 
 ---
 
-## 🔭 About Me  
+<div align="center">
 
-- 🎓 Final-year student specializing in **AI & Data Science**  
-- 🤖 Skilled in **Machine Learning, Deep Learning, NLP, and Generative AI**  
-- ☁️ Experienced in **cloud-native development**, infrastructure automation, and deployments  
-- ⚡  Hands-on with **Infrastructure as Code**, CI/CD, and distributed systems  
-- 🌱 Exploring **RAG, LangChain, and modern NLP pipelines**  
-- 💡 Passionate about **problem-solving, optimization, and scalable ML deployment**
-  
+🌟 Passionate about building **intelligent, scalable, cloud-powered AI systems**  
+☁️ Skilled in **AWS, Terraform, MLOps pipelines, and modern NLP**  
+🤖 Love transforming ideas into **end-to-end ML solutions**
+
+</div>
+
+---
+
+## 🚀 About Me  
+- 🎓 Final-year **AI & Data Science** student  
+- 🤖 Experience in **Machine Learning, NLP, GenAI, RAG**  
+- ☁️ Strong in **Cloud Infrastructure (AWS)** & **IaC (Terraform)**  
+- ⚙️ MLOps: CI/CD, Docker, Cloud Deployments  
+- 📚 Exploring **LangChain, Vector DBs, and advanced NLP pipelines**  
+- 💡 Passionate about **problem-solving & scalable systems**
+
 ---
 
 ## 🛠️ Tech Stack  
 
-### **Languages**
-- Python, SQL, JavaScript  
+### 🚀 Languages  
+`Python` • `SQL` • `JavaScript`
 
-### **Frameworks & Libraries**
-- TensorFlow, Scikit-learn, LangChain  
+### 🤖 AI / ML  
+`PyTorch` • `TensorFlow` • `Scikit-learn` • `LangChain` • `RAG`
 
-### **Cloud & DevOps / Infra**
-- **AWS:** EC2, S3, IAM, Lambda, VPC, CloudWatch, EKS, ECS  
-- **Terraform (IaC)**  
-- Docker & Containerization  
-- GitHub Actions (CI/CD)  
-- Load Balancing & Auto Scaling  
-- CloudFormation (Basics)  
+### ☁️ Cloud & DevOps  
+`AWS (EC2, S3, Lambda, EKS, ECS)` • `Terraform` • `Docker` • `GitHub Actions`  
+`CloudFormation` • `Load Balancers` • `Auto Scaling`
 
-### **MLOps**
-- End-to-end ML pipelines  
-- Model deployment on cloud  
-- Dockerized ML applications  
-- Experiment tracking & optimization  
+### 🔧 MLOps  
+`ML Pipelines` • `Model Deployment` • `Experiment Tracking` • `Containerization`
 
-### **Databases**
-- MySQL, PostgreSQL, ChromaDB, DynamoDB  
+### 🗃 Databases  
+`MySQL` • `PostgreSQL` • `ChromaDB` • `DynamoDB`
 
 ---
 
-## 🌟 Current Focus  
-- Developing **end-to-end ML pipelines** with MLOps  
-- Building **cloud-native AI systems** using AWS  
-- Implementing infrastructure with **Terraform**  
-- Working on **RAG-based systems**, document intelligence, and Generative AI  
-- Optimizing **scalable deployments** and distributed ML workloads
+## 📊 GitHub Analytics  
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Varsh345&show_icons=true&theme=react" height="160" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varsh345&layout=compact&theme=react" height="160"/>
+
+</div>
 
 ---
 
 ## 🤝 Let’s Connect  
-- 📫 Email: varshu2256@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/dhana-varshini-srinivasan-127519276/
+📫 **Email:** varshu2256@gmail.com  
+🔗 **LinkedIn:** [Dhana Varshini](https://www.linkedin.com/in/dhana-varshini-srinivasan-127519276/)
 
 ---
 
-⭐️ *“Turning data into intelligence.”*  
+<div align="center">
+  
+✨ *\"Turning data into intelligence with cloud-powered ML systems\"* ✨  
+
+</div>
